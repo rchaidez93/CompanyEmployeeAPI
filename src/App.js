@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Simple add and delete employees in companies
         </a>
       </header>
     </div>
