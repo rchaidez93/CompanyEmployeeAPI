@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.companies-header{
+  justify-content: center;
+  align-content: center;
+  display: flex;
+}
+
+.companies-text {
+  display: flex;
+  align-items: center;
+  font-size: x-large;
+}
+
+.add-company-button {
+  display: flex;
+}
